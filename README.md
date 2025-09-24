@@ -1,9 +1,9 @@
-<img src="786981cf-7f34-4d8a-89ae-e10f62f8cc0a.jpg" width="200" style="border-radius:50%">
-
-
-# Hi, I'm Kitnupong-Rujileath 👋
-💻 IT Student | Aspiring Software Developer | Lifelong Learner  
-*"Turning ideas into functional and creative solutions."*
+<p align="center">
+  <img src="786981cf-7f34-4d8a-89ae-e10f62f8cc0a.jpg" width="200" style="border-radius:50%">
+  <br>
+  <b> Hi, I'm Kitnupong-Rujileath 👋</b><br>
+  <b>💻 IT Student | Aspiring Software Developer | Lifelong Learner</b>
+</p>
 
 ---
 
@@ -12,7 +12,7 @@
 - 🌱 Currently learning **React, Spring Boot, and Python for Web Development**  
 - 💡 Passionate about **Programming, Database Design, and Software Projects**  
 - 🤝 Looking to collaborate on **open-source or university projects**  
-- 📫 Reach me at: **your_email@email.com**
+- 📫 Reach me at: **nice19274@gmail.com**
 
 ---
 
@@ -42,9 +42,9 @@
 ---
 
 ## 📞 Let’s Connect
-- ✉️ Email: your_email@email.com  
-- 🌐 GitHub: [GodGi007](https://github.com/GodGi007)  
-- 💼 LinkedIn: [Your LinkedIn](#)  
+- ✉️ Email: nice19274@gmail.com  
+- 🌐 GitHub:   
+
 
 ---
 
