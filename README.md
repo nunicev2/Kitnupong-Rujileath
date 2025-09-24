@@ -1,4 +1,4 @@
-
+<img src="./profile.jpg" width="200" style="border-radius:50%">
 
 
 # Hi, I'm Kitnupong-Rujileath 👋
